@@ -1,7 +1,16 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Counter App
 
+A simple beginner React counter project built using Vite.
+
+### Features
+- Increase & decrease buttons
+- React useState hook
+- Clean minimal UI
+
+### Run locally
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
